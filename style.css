@@ -1,0 +1,60 @@
+.wrapper {
+  position: relative;
+}
+.active {
+  color: #cbb085 !important;
+}
+
+.h4 {
+  position: absolute;
+
+  top: 63%;
+  left: 15%;
+  font-size: 1rem !important;
+}
+
+.h1 {
+  position: absolute !important;
+  top: 45%;
+  left: 15%;
+  width: 8rem !important;
+  font-family: "Montserrat", sans-serif;
+  line-height: 0.8 !important;
+  font-size: 4rem !important;
+}
+.h3 {
+  position: absolute !important;
+  top: 58%;
+  left: 15%;
+}
+
+.navbar-toggler {
+  background-color: #cbb085 !important;
+}
+
+.navbar-brand {
+  min-height: inherit;
+}
+
+.navbar-brand > img {
+  z-index: 999 !important;
+}
+
+@media only screen and (max-width: 306px) {
+  .navbar-brand > img {
+    height: 1.5rem;
+  }
+  .navbar-toggler-icon {
+    margin: -0.4rem;
+  }
+}
+
+.carousel-img {
+  position: absolute;
+  top: 35%;
+  left: 15%;
+}
+/* 
+@media only screen and (max-width: 678px){
+
+} */
