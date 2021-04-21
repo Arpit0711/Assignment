@@ -5,12 +5,31 @@
   color: #cbb085 !important;
 }
 
+.display-5 {
+  color: #cbb085;
+
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  color: #cbb085;
+  font-family: "Montserrat", sans-serif;
+}
+
+span {
+  color: #575756;
+}
+
 .h4 {
   position: absolute;
 
   top: 63%;
   left: 15%;
   font-size: 1rem !important;
+}
+
+.btn {
+  background-color: #cbb085 !important;
 }
 
 .h1 {
@@ -30,6 +49,12 @@
 
 .navbar-toggler {
   background-color: #cbb085 !important;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100 !important;
+  width: 40rem !important;
 }
 
 .navbar-brand {
