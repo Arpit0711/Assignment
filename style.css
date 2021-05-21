@@ -1,3 +1,12 @@
+:root {
+  --primary-color: #cbb085;
+  --ff: "Montserrat", sans-serif;
+}
+
+.border {
+  background-color: var(--primary-color) !important;
+}
+
 .wrapper {
   position: relative;
 }
@@ -37,7 +46,7 @@ span {
   top: 45%;
   left: 15%;
   width: 8rem !important;
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--ff);
   line-height: 0.8 !important;
   font-size: 4rem !important;
 }
