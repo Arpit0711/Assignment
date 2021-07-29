@@ -5,6 +5,28 @@
              
              
              
+  <div class="col gx-5">
+                  <div class="container-fluid w-100 page-4 ">
+                       <div class="row-lg justify-content-around">
+                         <img  style="width: 30%;" src="./images/first.svg" alt="">
+                         <img style="width: 30%;" src="./images/second.svg" alt="">
+                        <div class="row-lg">
+                          
+                        </div>
+                       </div>
+                       <div class="row-lg">
+                          <img style="width: 30%;" src="./images/fifth.svg" alt="">
+                          <img style="width: 30%;" src="./images/sixth.svg" alt="">
+                       </div>
+                  </div>
+               </div>
 
-
+<div class="row d-flex justify-content-around py-5">
+                <img style="width: 25%;" src="./images/third.svg" alt="">
+                <img style="width: 25%;" src="./images/fourth.svg" alt="">
+               </div>
+               <div class="row d-flex justify-content-around py-5">
+                <img style="width: 25%;" src="./images/fifth.svg" alt="">
+                <img style="width: 25%;" src="./images/sixth.svg" alt="">
+               </div>1
                
